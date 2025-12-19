@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Gillastone';
+  src: url('https://assets.cinelove.me/fonts/webfonts/gillastone/gillastone.woff2') format('woff2'),
+       url('https://assets.cinelove.me/fonts/webfonts/gillastone/gillastone.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
